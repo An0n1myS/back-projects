@@ -1,0 +1,57 @@
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.csproj.AssemblyReference.cache
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.AssemblyInfoInputs.cache
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.AssemblyInfo.cs
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.csproj.CoreCompileInputs.cache
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.MvcApplicationPartsAssemblyInfo.cache
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.RazorAssemblyInfo.cache
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.RazorAssemblyInfo.cs
+D:\University\3\backend\WebApplication5\WebApplication5\bin\Debug\net6.0\appsettings.Development.json
+D:\University\3\backend\WebApplication5\WebApplication5\bin\Debug\net6.0\appsettings.json
+D:\University\3\backend\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.staticwebassets.runtime.json
+D:\University\3\backend\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.exe
+D:\University\3\backend\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.deps.json
+D:\University\3\backend\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.runtimeconfig.json
+D:\University\3\backend\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.dll
+D:\University\3\backend\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.pdb
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets.build.json
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets.development.json
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\scopedcss\bundle\WebApplication5.styles.css
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication5.bundle.scp.css
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.dll
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\refint\WebApplication5.dll
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.pdb
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.genruntimeconfig.cache
+D:\University\3\backend\WebApplication5\WebApplication5\obj\Debug\net6.0\ref\WebApplication5.dll
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\bin\Debug\net6.0\appsettings.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.staticwebassets.runtime.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.exe
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.deps.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.runtimeconfig.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.dll
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\bin\Debug\net6.0\WebApplication5.pdb
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.csproj.AssemblyReference.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.AssemblyInfoInputs.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.AssemblyInfo.cs
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.csproj.CoreCompileInputs.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.RazorAssemblyInfo.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.RazorAssemblyInfo.cs
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication5.props
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication5.props
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication5.props
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\scopedcss\bundle\WebApplication5.styles.css
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication5.bundle.scp.css
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.dll
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\refint\WebApplication5.dll
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.pdb
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\WebApplication5.genruntimeconfig.cache
+D:\Учеба\Универ\3 курс\1 семестр\бек\projects\WebApplication5\WebApplication5\obj\Debug\net6.0\ref\WebApplication5.dll
